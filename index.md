@@ -2,7 +2,7 @@
 layout: cv
 title: Isaac Newtons's CV
 ---
-# Isaac Newton
+# Zhu Morui
 Physicist, Mathematician, Cambridge professor.
 
 <div id="webaddress">
